@@ -35,14 +35,15 @@ I’m a UI/UX and product designer who enjoys turning complex products into simp
 ## Tools I use
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=figma,framer,ps,ae,pr,html,css,js,git,github,vscode&perline=11" alt="Tools and technologies" />
+  <img src="https://skillicons.dev/icons?i=figma&perline=1" alt="Figma" />
+  <img src="https://cdn.simpleicons.org/framer/8B5CF6" width="48" height="48" alt="Framer" />
+  <img src="https://skillicons.dev/icons?i=ps,ae,pr,html,css,js,git,github,vscode&perline=9" alt="Photoshop, After Effects, Premiere Pro, HTML, CSS, JavaScript, Git, GitHub and VS Code" />
 </p>
 
 ## GitHub activity
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Reza00498895&show_icons=true&hide_border=true&rank_icon=github&theme=transparent&title_color=8b5cf6&icon_color=8b5cf6&text_color=94a3b8" alt="Reza's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reza00498895&layout=compact&hide_border=true&theme=transparent&title_color=8b5cf6&text_color=94a3b8" alt="Top languages" />
+  <img height="165" src="https://github-readme-stats-fast.vercel.app/api?username=Reza00498895&show_icons=true&hide_border=true&theme=transparent&title_color=8b5cf6&icon_color=8b5cf6&text_color=94a3b8" alt="Reza's GitHub stats" />
 </div>
 
 <br />
@@ -51,10 +52,10 @@ I’m a UI/UX and product designer who enjoys turning complex products into simp
   <img src="https://streak-stats.demolab.com?user=Reza00498895&hide_border=true&background=00000000&ring=8b5cf6&fire=a855f7&currStreakLabel=8b5cf6&sideLabels=94a3b8&dates=64748b&currStreakNum=f8fafc&sideNums=f8fafc" alt="GitHub contribution streak" />
 </div>
 
-## GitHub trophies
+## GitHub profile summary
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Reza00498895&theme=onestar&no-frame=true&no-bg=true&margin-w=8&column=7" alt="GitHub trophies" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Reza00498895&theme=github_dark" alt="GitHub profile summary" />
 </div>
 
 ## Contribution snake
