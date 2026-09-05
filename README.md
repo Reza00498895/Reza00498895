@@ -60,7 +60,7 @@ I’m a UI/UX and product designer who enjoys turning complex products into simp
 ## Contribution snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Reza00498895/Reza00498895/output/github-contribution-grid-snake.svg" alt="Contribution snake animation" />
+  <img src="https://raw.githubusercontent.com/Reza00498895/Reza00498895/gh-pages/github-contribution-grid-snake.svg" alt="Contribution snake animation" />
 </div>
 
 <div align="center">
