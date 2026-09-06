@@ -49,11 +49,7 @@ I’m a UI/UX and product designer who enjoys turning complex products into simp
 <br />
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&height=135&section=header&text=171&fontSize=72&fontColor=F8FAFC&desc=TOTAL%20GITHUB%20CONTRIBUTIONS&descSize=16&descAlignY=82&color=8B5CF6" alt="171 total GitHub contributions" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Reza00498895&hide_border=true&background=00000000&ring=8b5cf6&fire=a855f7&currStreakLabel=8b5cf6&sideLabels=94a3b8&dates=64748b&currStreakNum=f8fafc&sideNums=f8fafc" alt="GitHub contribution streak" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:1e1b4b,50:7c3aed,100:a855f7&height=180&section=header&text=%E2%9C%A6%20171%20%E2%9C%A6&fontSize=72&fontColor=F8FAFC&fontAlignY=42&desc=TOTAL%20CONTRIBUTIONS%20SINCE%202019&descSize=16&descAlignY=73&stroke=8B5CF6&strokeWidth=2" alt="171 total GitHub contributions since 2019" />
 </div>
 
 ## GitHub profile summary
